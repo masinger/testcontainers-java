@@ -23,7 +23,7 @@ Using Maven
 <dependency>
     <groupId>org.testcontainers</groupId>
     <artifactId>testcontainers</artifactId>
-    <scope>kubernetes-alpha0.6</scope>
+    <version>kubernetes-alpha0.6</version>
 </dependency>
 ```
 
